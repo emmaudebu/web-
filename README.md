@@ -1,0 +1,3 @@
+this is a readme file
+new readme 
+hello this is editing with vim coding.....
